@@ -10,7 +10,7 @@ function setup() {
     gif = loadGif('assets/Tint.gif')
 
     capture = createCapture(VIDEO);
-    capture.size(1080, 1200);
+    capture.size(300, 420);
 
   	overlay = loadImage('assets/nei2.png')
 
